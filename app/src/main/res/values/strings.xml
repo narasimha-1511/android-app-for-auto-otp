@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Auto_Otp</string>
+    <string name="auto_otp">AUTO--OTP</string>
+    <string name="update">Update</string>
+    <string name="token_id">TOKEN ID</string>
+    <string name="phone_number_2">Phone Number 2</string>
+    <string name="phone_number_1">Phone Number 1</string>
+    <string name="lock">Lock</string>
+</resources>
